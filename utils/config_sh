@@ -1,0 +1,4 @@
+GITHUB_REPO_URL="https://github.com/lazyjinchuriki/pokedex"
+CLONE_DIR="main"
+ZIP_FILE_NAME="app.zip"
+DEST_DIR="\..\app"
